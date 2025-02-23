@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="cloudops_commander",
     version="0.1.0",
-    author="Your Name",
-    author_email="you@example.com",
+    author="Rahul Nayak",
+    author_email="merahulnayak@gmail.com",
     description="A package for simplifying cloud deployments, automating CI/CD pipelines, and monitoring microservices.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/cloudops_commander",
+    url="https://github.com/bluntlycoded/cloudops_commander.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
